@@ -10,9 +10,8 @@
 
   <br/>
 
-  <img src="https://img.shields.io/github/followers/eilaytal1?style=social">
-  <img src="https://img.shields.io/github/stars/eilaytal1?style=social">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eilaytal1" alt="Visitor Badge" />
+  <img src="https://img.shields.io/github/stars/eilaytal?style=social">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eilaytal" alt="Visitor Badge" />
 
   <br/><br/>
 
