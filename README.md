@@ -63,7 +63,7 @@
 
 #
 
-<img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&font=Iosevka+Charon+Mono&duration=1000&width=900&height=60&&pause=0&repeat=false&lines=DevOps+Engineer+%26+Cloud+Native+Enthusiast" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&font=Iosevka+Charon+Mono&duration=1000&width=900&height=60&&pause=0&repeat=false&lines=DevOps+Engineer+%26+Platform+Engineer" alt="Typing SVG"/>
 
 #
 
