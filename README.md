@@ -10,37 +10,47 @@
 <img src="https://img.shields.io/github/followers/eilaytal?style=social" alt="Followers">
 <img src="https://img.shields.io/github/stars/eilaytal?style=social" alt="Stars">
 
-<a href="https://www.linkedin.com/in/eilaytal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/eilay-tal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 #
 
 ## 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-1?logo=amazonaws&logoColor=white&labelColor=black&color=black)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-1?logo=amazonaws&logoColor=white&labelColor=black&color=black)
-![Terraform](https://img.shields.io/badge/Terraform-1?logo=terraform&logoColor=white&labelColor=black&color=black)
-![Helm](https://img.shields.io/badge/Helm-1?logo=helm&logoColor=white&labelColor=black&color=black)
-![Pulumi](https://img.shields.io/badge/Pulumi-1?logo=pulumi&logoColor=white&labelColor=black&color=black)
+![Git          ](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=black&color=black)
+![Bash         ](https://img.shields.io/badge/Bash-1?logo=gnubash&logoColor=white&labelColor=black&color=black)
+![NodeJS       ](https://img.shields.io/badge/Nodejs-1?logo=node.js&logoColor=white&labelColor=black&color=black)
+![JavaScript   ](https://img.shields.io/badge/JavaScript-1?logo=javascript&logoColor=white&labelColor=black&color=black)
+![TypeScript   ](https://img.shields.io/badge/Typescript-1?logo=typescript&logoColor=white&labelColor=black&color=black)
+![CSS3         ](https://img.shields.io/badge/CSS3-1?logo=css3&logoColor=white&labelColor=black&color=black)
+![Sass         ](https://img.shields.io/badge/Sass-1?logo=sass&logoColor=white&labelColor=black&color=black)
 <br/>
-![Docker](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=black&color=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=black&color=black)
-![EKS](https://img.shields.io/badge/EKS-1?logo=kubernetes&logoColor=white&labelColor=black&color=black)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-1?logo=argo&logoColor=white&labelColor=black&color=black)
-![Rancher](https://img.shields.io/badge/Rancher-1?logo=rancher&logoColor=white&labelColor=black&color=black)
+![HTML5        ](https://img.shields.io/badge/HTML5-1?logo=html5&logoColor=white&labelColor=black&color=black)
+![ArgoCD       ](https://img.shields.io/badge/Argo-1?logo=argo&logoColor=white&labelColor=black&color=black)
+![Azure        ](https://img.shields.io/badge/Azure-1?logo=azure&logoColor=white&labelColor=black&color=black)
+![Docker       ](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=black&color=black)
+![Kubernetes   ](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=black&color=black)
+![Prometheus   ](https://img.shields.io/badge/Prometheus-1?logo=prometheus&logoColor=white&labelColor=black&color=black)
+![Grafana      ](https://img.shields.io/badge/Grafana-1?logo=grafana&logoColor=white&labelColor=black&color=black)
+![Helm         ](https://img.shields.io/badge/helm-1?logo=helm&logoColor=white&labelColor=black&color=black)
 <br/>
-![Jenkins](https://img.shields.io/badge/Jenkins-1?logo=jenkins&logoColor=white&labelColor=black&color=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1?logo=githubactions&logoColor=white&labelColor=black&color=black)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-1?logo=gitlab&logoColor=white&labelColor=black&color=black)
-![Git](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=black&color=black)
+![EKS          ](https://img.shields.io/badge/EKS-1?logo=kubernetes&logoColor=white&labelColor=black&color=black)
+![Linux        ](https://img.shields.io/badge/linux-1?logo=linux&logoColor=white&labelColor=black&color=black)
+![Github Actions](https://img.shields.io/badge/GitHub%20Actions-1?logo=githubactions&logoColor=white&labelColor=black&color=black)
+![Github       ](https://img.shields.io/badge/GitHub-1?logo=github&logoColor=white&labelColor=black&color=black)
+![GitLab       ](https://img.shields.io/badge/GitLab-1?logo=gitlab&logoColor=white&labelColor=black&color=black)
 <br/>
-![Python](https://img.shields.io/badge/Python-1?logo=python&logoColor=white&labelColor=black&color=black)
-![Bash](https://img.shields.io/badge/Bash-1?logo=gnubash&logoColor=white&labelColor=black&color=black)
-![Linux](https://img.shields.io/badge/Linux-1?logo=linux&logoColor=white&labelColor=black&color=black)
-![YAML](https://img.shields.io/badge/YAML-1?logo=yaml&logoColor=white&labelColor=black&color=black)
+![Jenkins      ](https://img.shields.io/badge/Jenkins-1?logo=jenkins&logoColor=white&labelColor=black&color=black)
+![Python       ](https://img.shields.io/badge/Python-1?logo=python&logoColor=white&labelColor=black&color=black)
+![Ansible      ](https://img.shields.io/badge/Ansible-1?logo=Ansible&logoColor=white&labelColor=black&color=black)
+![Elastic      ](https://img.shields.io/badge/Elastic-1?logo=elastic&logoColor=white&labelColor=black&color=black)
+![Terraform    ](https://img.shields.io/badge/Terraform-1?logo=Terraform&logoColor=white&labelColor=black&color=black)
+![Kibana       ](https://img.shields.io/badge/Kibana-1?logo=Kibana&logoColor=white&labelColor=black&color=black)
+![Jira         ](https://img.shields.io/badge/Jira-1?logo=Jira&logoColor=white&labelColor=black&color=black)
 <br/>
-![Prometheus](https://img.shields.io/badge/Prometheus-1?logo=prometheus&logoColor=white&labelColor=black&color=black)
-![Grafana](https://img.shields.io/badge/Grafana-1?logo=grafana&logoColor=white&labelColor=black&color=black)
-![Loki](https://img.shields.io/badge/Loki-1?logo=grafana&logoColor=white&labelColor=black&color=black)
+![Kafka        ](https://img.shields.io/badge/Kafka-1?logo=apache-Kafka&logoColor=white&labelColor=black&color=black)
+![OpenShift    ](https://img.shields.io/badge/Open%20Shift-1?logo=redhatopenshift&logoColor=white&labelColor=black&color=black)
+![Redis        ](https://img.shields.io/badge/Redis-1?logo=Redis&logoColor=white&labelColor=black&color=black)
+![Vault        ](https://img.shields.io/badge/Vault-1?logo=Vault&logoColor=white&labelColor=black&color=black)
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eilaytal&layout=compact&theme=vision-friendly-dark">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=eilaytal&theme=dark&background=000000">
