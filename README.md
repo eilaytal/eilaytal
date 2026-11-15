@@ -63,7 +63,7 @@
 
 #
 
-<img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&font=Iosevka+Charon+Mono&duration=1000&width=900&height=350&pause=0&color=39C884&repeat=false&lines=DevOps+Engineer+%7C+Cloud+Native+Architect;Kubernetes+%7C+EKS+%7C+ArgoCD+%7C+Helm;Terraform+%7C+CloudFormation+%7C+Infrastructure+as+Code;Docker+%7C+Microservices+%7C+Container+Orchestration;Jenkins+%7C+GitHub+Actions+%7C+CI%2FCD+Pipelines;AWS+%7C+Multi-Cloud+%7C+Cloud+Architecture;Prometheus+%7C+Grafana+%7C+Observability;Python+%7C+Bash+%7C+Automation+%26+Scripting;GitOps+%7C+Canary+%7C+Blue%2FGreen+Deployments" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&font=Iosevka+Charon+Mono&duration=1000&width=900&height=350&pause=0&color=39C884&repeat=false&lines=DevOps+Engineer;Kubernetes+%7C+EKS+%7C+ArgoCD+%7C+Helm;Terraform+%7C+CloudFormation+%7C+Infrastructure+as+Code;Docker+%7C+Microservices+%7C+Container+Orchestration;Jenkins+%7C+GitHub+Actions+%7C+CI%2FCD+Pipelines;AWS+%7C+Multi-Cloud+%7C+Cloud+Architecture;Prometheus+%7C+Grafana+%7C+Observability;Python+%7C+Bash+%7C+Automation+%26+Scripting;GitOps+%7C+Canary+%7C+Blue%2FGreen+Deployments" alt="Typing SVG"/>
 
 #
 
